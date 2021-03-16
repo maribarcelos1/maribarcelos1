@@ -9,4 +9,4 @@ Atualmente estou estudando C# e mapeando meus estudos para descobrir mais sobre 
 Uma frase que eu levarei para minha vida é a do meu pai, sempre a utilizo quando estou com dificuldades.
 >*Nada é impossivel, se alguem fez, você tambem consegue fazer.*
 
-<img src="https://meneguite.com/2017/10/01/golang-desbravando-uma-linguagem-de-programacao-parte-1/001.gif">
+<img src="https://media-exp1.licdn.com/dms/image/C4D22AQHDHig6cx1XxA/feedshare-shrink_800/0/1615922912321?e=1619049600&v=beta&t=DgZwJLK6U-d3M73WtwvVODikF0urG4Uk2JzRcthW76I">
